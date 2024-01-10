@@ -69,7 +69,7 @@ forc build --locked
 
 #### Running the tests
 
-Before running the tests the programs must be compiled with the command above.
+Before running the tests the programs must be compiled with command above.
 
 ```bash
 cargo test --locked
