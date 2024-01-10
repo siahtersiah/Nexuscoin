@@ -4,7 +4,7 @@
         <img alt="airdrop-distributor logo" width="400px" src=".docs/airdrop-distributor_light.png">
     </picture>
 </p>
-
+_-
 <p align="center">
     <a href="https://crates.io/crates/forc/0.42.1" alt="forc">
         <img src="https://img.shields.io/badge/forc-v0.42.1-orange" />
