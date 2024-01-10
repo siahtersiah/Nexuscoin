@@ -51,7 +51,7 @@ airdrop
 └── README.md
 ```
 
-## Running the project
+## Running the
 
 ### User interface
 
