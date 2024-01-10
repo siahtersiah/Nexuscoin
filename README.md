@@ -33,7 +33,7 @@ The project consists of two smart contracts.
 
 <!--Only show most important files e.g. script to run, build etc.-->
 
-```sh
+```s
 airdrop
 ├── project
 │   ├── contracts
