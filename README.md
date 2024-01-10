@@ -63,7 +63,7 @@ In order to run the subsequent commands change into the following directory `/pa
 
 #### Program compilation
 
-```bash
+bash
 forc build --locked
 ```
 
