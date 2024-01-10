@@ -55,7 +55,7 @@ airdrop
 
 ### User interface
 
-TODO: The user interface does not currently exist therefore its [README.md](ui/README.md) and [SPECIFICATION.md](ui/SPECIFICATION.md) are empty.
+TODO: The user interface not currently exist therefore its [README.md](ui/README.md) and [SPECIFICATION.md](ui/SPECIFICATION.md) are empty.
 
 ### Project
 
